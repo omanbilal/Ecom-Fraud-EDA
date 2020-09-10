@@ -1,3 +1,3 @@
-# E-commerce-Fraud-EDA
+# E-Commerce-Fraud-EDA
 A basic Exploratory Data Analysis of E-commerce transaction data.
 
